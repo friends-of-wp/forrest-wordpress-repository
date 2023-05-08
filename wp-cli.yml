@@ -1,0 +1,5 @@
+commands:
+  plugin-update_all:
+    name: "plugin:update:all"
+    description: "Updates all plugins"
+    prompt: "wp plugin update --all"
